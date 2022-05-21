@@ -56,5 +56,5 @@ impl MyStruct {
    pub fn set_b(&mut self, b: String) {
        self.b = b;
    }
-
+}
 ```
